@@ -79,6 +79,7 @@ Automated Kubernetes cluster provisioning on GCP.
 - GKE cluster setup  
 - Ready for workload deployments  
 - Clean and reproducible environment  
+- One-command deployment
 
 👉 [GitHub Repository](https://github.com/joreichhardt/gke-cluster-terraform)
 
@@ -91,6 +92,9 @@ Hands-on environment for testing real-world setups.
 - Ceph storage experiments  
 - Networking & automation  
 - CI/CD and self-hosted tooling  
+- One-command deployments
+- Strong interest in Platform Engineering
+  - Backstage
 
 👉 [View all repositories](https://github.com/joreichhardt)
 
