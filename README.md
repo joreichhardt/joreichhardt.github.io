@@ -35,13 +35,13 @@ I prefer **pragmatic solutions over over-engineering**.
 ## 🛠️ Tech Stack
 
 **Cloud & Infrastructure**
-- GCP (Compute, GKE, Networking)
+- GCP 
 - Terraform
 - Cloud DNS / IAM
 
 **Containers & Orchestration**
 - Docker / Docker Compose
-- Kubernetes (k3s / GKE)
+- Kubernetes (k3s / k8s / GKE)
 
 **CI/CD & Automation**
 - GitHub Actions
@@ -55,7 +55,7 @@ I prefer **pragmatic solutions over over-engineering**.
 
 **System & Automation**
 - Linux (Ubuntu / Debian)
-- Bash / Shell
+- Bash / Shell / Python
 - Ansible (basic usage)
 
 ---
