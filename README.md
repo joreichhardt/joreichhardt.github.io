@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Johannes Reichhardt
-
 ![Linux](https://img.shields.io/badge/Linux-Expert-blue)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
