@@ -77,7 +77,7 @@ Lightweight Kubernetes cluster with modern, secure deployment pipeline.
 - Automated deployments from Git  
 - Designed for small-scale production workloads  
 
-👉 [GitHub Repository](https://github.com/joreichhardt/production-ready-k3s-cluster-with-ci-cd)
+👉 [GitHub Repository](https://github.com/joreichhardt/production-ready-k3s-cluster-automation)
 
 ---
 
