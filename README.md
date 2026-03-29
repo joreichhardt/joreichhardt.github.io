@@ -6,6 +6,7 @@
 
 **Senior Linux / DevOps Engineer**  
 15+ years experience in Infrastructure, Automation & Cloud
+API First Mindset
 
 ---
 
@@ -38,6 +39,7 @@ I prefer **pragmatic solutions over over-engineering**.
 - GCP (Compute, GKE, Networking)
 - Terraform
 - Cloud DNS / IAM
+- Ceph
 
 **Containers & Orchestration**
 - Docker / Docker Compose
@@ -51,7 +53,7 @@ I prefer **pragmatic solutions over over-engineering**.
 **System & Automation**
 - Linux (Ubuntu / Debian)
 - Bash / Shell
-- Ansible (basic usage)
+- Ansible
 
 ---
 
