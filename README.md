@@ -2,80 +2,115 @@
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
 
-DevOps Engineer | Linux | Cloud | Automation  
+# Johannes Reichhardt
+
+**Senior Linux / DevOps Engineer**  
+15+ years experience in Infrastructure, Automation & Cloud
 
 ---
 
 ## 🚀 About Me
 
-- 25+ years Linux experience (private & professional)  
-- 15+ years IT / infrastructure experience  
-- Strong focus on automation, scalability, and reliability  
-- Background in Linux systems, networking and cloud infrastructure  
-- Bridging classic infrastructure with modern DevOps practices  
+I design and operate **production-ready infrastructure** with a strong focus on:
+
+- Infrastructure as Code (Terraform-first mindset)
+- Cloud platforms (especially GCP)
+- Containerized workloads (Docker / Kubernetes)
+- Simple, maintainable and reliable systems
+
+I prefer **pragmatic solutions over over-engineering**.
 
 ---
 
-## 🚀 Open to Opportunities
+## 🧠 Why Me
 
-I’m currently open to DevOps / Cloud roles.  
-
-👉 Let’s build reliable, scalable infrastructure.  
-📫 [Email me](mailto:johannes.reichhardt@gmail.com)
-
----
-
-## 🧰 Tech Stack
-
-### Infrastructure
-- Terraform  
-- Ansible  
-- Proxmox, libvirt
-- OpenNebula   
-- Cloud (GCP, AWS)
-
-### Storage
-
-- Ceph  
-
-### Containers & Orchestration
-- Docker  
-- Kubernetes / K3s  
-
-### Systems & Networking
-- Linux (Debian, Ubuntu)  
-- Networking, VPN, Firewalls  
-- Reverse Proxy (Traefik, Nginx)  
+- 15+ years hands-on Linux experience  
+- Strong automation mindset (everything reproducible)  
+- Real-world infrastructure, not just demos  
+- Fast learner with deep troubleshooting skills  
+- Focus on simplicity, performance and cost-efficiency  
 
 ---
 
-## 📂 Selected Projects
+## 🛠️ Tech Stack
 
-👉 [Browse all my repositories](https://github.com/joreichhardt?tab=repositories)
+**Cloud & Infrastructure**
+- GCP (Compute, GKE, Networking)
+- Terraform
+- Cloud DNS / IAM
+
+**Containers & Orchestration**
+- Docker / Docker Compose
+- Kubernetes (k3s / GKE)
+
+**Networking & Security**
+- WireGuard
+- Reverse Proxy (Traefik, Nginx)
+- TLS / Let's Encrypt
+
+**System & Automation**
+- Linux (Ubuntu / Debian)
+- Bash / Shell
+- Ansible (basic usage)
 
 ---
 
-## ☁️ Why I Prefer GCP
+## 📂 Projects
 
-I enjoy working with GCP because it feels engineered for clarity and automation.
+### 🔐 WireGuard VPN on GCP
+Production-ready VPN setup for secure remote access while traveling.
 
-Compared to other platforms, GCP offers:
-- A more intuitive and consistent API design  
-- Strong IAM and project-based isolation  
-- Excellent Kubernetes ecosystem (GKE)  
-- Clean networking concepts  
-- Seamless integration with Infrastructure as Code (Terraform)  
+- Fully automated with Terraform  
+- Dockerized (wg-easy)  
+- Reverse proxy via Traefik + Let's Encrypt  
+- One-command deployment  
 
-This allows me to focus on building systems instead of fighting the platform.
+👉 [GitHub Repository](https://github.com/joreichhardt/wgeasy-terra)
 
 ---
 
-## 🌍 Currently
+### ☁️ GKE Cluster with Terraform
+Automated Kubernetes cluster provisioning on GCP.
 
-- Building production-ready infrastructure  
-- Deepening Kubernetes & cloud-native patterns  
+- Infrastructure as Code (Terraform)  
+- GKE cluster setup  
+- Ready for workload deployments  
+- Clean and reproducible environment  
+
+👉 [GitHub Repository](https://github.com/joreichhardt/gke-cluster-terraform)
+
+---
+
+### ⚙️ Homelab / Infrastructure Experiments
+Hands-on environment for testing real-world setups.
+
+- Kubernetes (k3s)  
+- Ceph storage experiments  
+- Networking & automation  
+- CI/CD and self-hosted tooling  
+
+👉 [View all repositories](https://github.com/joreichhardt)
+
+---
+
+## 🎯 What I’m Looking For
+
+- DevOps Engineer  
+- Platform Engineer  
+- Infrastructure Engineer  
+
+✔ Remote-first roles preferred  
+✔ Open to hybrid setups  
 
 ---
 
 ## 📫 Contact
-[Email me](mailto:johannes.reichhardt@gmail.com)
+
+- GitHub: https://github.com/joreichhardt  
+- Email: [johannes.reichhardt@gmail.com](mailto:johannes.reichhardt@gmail.com)
+
+---
+
+## ⚡ Philosophy
+
+> "Build systems that are simple, reproducible and actually work in production."
