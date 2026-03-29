@@ -138,3 +138,12 @@ Hands-on environment for testing real-world setups.
 ## ⚡ Philosophy
 
 > "Build systems that are simple, reproducible and actually work in production."
+
+I don't default to Kubernetes.
+
+I choose the right level of complexity:
+- Docker for simple, reliable setups
+- k3s for lightweight orchestration
+- GKE when scalability and managed infrastructure matter
+- Kubernetes on Bare Metal :) 
+- ... or just a simple vm ... maybe insight Kubernetes with KubeVirt
