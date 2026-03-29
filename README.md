@@ -130,8 +130,6 @@ Hands-on environment for testing real-world setups.
 
 ## 📫 Contact
 
-## Contact
-
 - 📧 Email: [johannes.reichhardt@gmail.com](mailto:johannes.reichhardt@gmail.com)
 - 💻 GitHub: [github.com/joreichhardt](https://github.com/joreichhardt)
 
