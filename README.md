@@ -39,8 +39,7 @@ DevOps Engineer | Linux | Cloud | Automation
 
 ## 📂 Selected Projects
 
-👉 Browse all projects:  
-https://github.com/joreichhardt?tab=repositories  
+👉 [Browse all my repositories](https://github.com/joreichhardt?tab=repositories)
 
 ---
 
