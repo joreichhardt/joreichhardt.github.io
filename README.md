@@ -51,5 +51,4 @@ DevOps Engineer | Linux | Cloud | Automation
 ---
 
 ## 📫 Contact
-
-- GitHub: https://github.com/joreichhardt  
+📫 [Email me](mailto:johannes.reichhardt@gmail.com)
