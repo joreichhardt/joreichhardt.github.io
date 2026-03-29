@@ -44,7 +44,7 @@ I prefer **pragmatic solutions over over-engineering**.
 
 **Containers & Orchestration**
 - Docker / Docker Compose
-- Kubernetes (k3s / GKE)
+- Kubernetes (k3s / k8s / GKE)
 
 **Networking & Security**
 - WireGuard
