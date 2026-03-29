@@ -49,4 +49,4 @@ DevOps Engineer | Linux | Cloud | Automation
 ---
 
 ## 📫 Contact
-📫 [Email me](mailto:johannes.reichhardt@gmail.com)
+[Email me](mailto:johannes.reichhardt@gmail.com)
