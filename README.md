@@ -26,7 +26,7 @@ I prefer **pragmatic solutions over over-engineering**.
 
 ## 🧠 Why Me
 
-- 15+ years hands-on Linux experience  
+- 25+ years hands-on Linux experience  
 - Strong automation mindset (everything reproducible)  
 - Real-world infrastructure, not just demos  
 - Fast learner with deep troubleshooting skills  
