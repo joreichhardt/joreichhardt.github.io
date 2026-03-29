@@ -16,6 +16,15 @@ DevOps Engineer | Linux | Cloud | Automation
 
 ---
 
+## 🚀 Open to Opportunities
+
+I’m currently open to DevOps / Cloud roles.  
+
+👉 Let’s build reliable, scalable infrastructure.  
+📫 [Email me](mailto:johannes.reichhardt@gmail.com)
+
+---
+
 ## 🧰 Tech Stack
 
 ### Infrastructure
