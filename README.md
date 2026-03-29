@@ -7,10 +7,10 @@
 **Senior Linux / DevOps Engineer**  
 Infrastructure, Automation & Cloud
 
-* Creative by training (Master of Fine Arts(Diplom Freie Kunst), Academy of Fine Arts Munich). 
-* Engineer by practice. 
+* Creative by training (Master of Fine Arts(Diplom Freie Kunst), Academy of Fine Arts Munich) 
+* Engineer by practice 
 
-* 15+ years of real-world experience in Linux, infrastructure, and automation.
+* 15+ years of real-world experience in Linux, infrastructure, and automation
 * 25+ years Linux User
 
 ---
