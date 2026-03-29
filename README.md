@@ -6,6 +6,7 @@
 
 **Senior Linux / DevOps Engineer**  
 15+ years experience in Infrastructure, Automation & Cloud
+
 API First Mindset
 
 ---
