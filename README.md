@@ -30,8 +30,13 @@ I’m currently open to DevOps / Cloud roles.
 ### Infrastructure
 - Terraform  
 - Ansible  
-- Proxmox / Virtualization  
-- Cloud (GCP, AWS)  
+- Proxmox, libvirt
+- OpenNebula   
+- Cloud (GCP, AWS)
+
+### Storage
+
+- Ceph  
 
 ### Containers & Orchestration
 - Docker  
