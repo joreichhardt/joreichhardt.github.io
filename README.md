@@ -66,7 +66,7 @@ I prefer **pragmatic solutions over over-engineering**.
 Lightweight Kubernetes cluster with modern, secure deployment pipeline.
 
 - In Progress
-- one click deployment on GCP
+- one command deployment on GCP
 - Bootstrap GCP
 - k3s-based Kubernetes cluster  
 - GitHub Actions CI/CD pipeline  
