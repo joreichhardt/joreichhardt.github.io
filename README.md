@@ -72,6 +72,67 @@ Production-ready VPN setup for secure remote access while traveling.
 
 👉 [GitHub Repository](https://github.com/joreichhardt/wgeasy-terra)
 
+### ⚙️ Production-ready k3s Cluster with CI/CD
+Lightweight Kubernetes cluster with modern, secure deployment pipeline.
+
+- k3s-based Kubernetes cluster  
+- GitHub Actions CI/CD pipeline  
+- Keyless authentication via OIDC (no static secrets)  
+- Automated deployments from Git  
+- Designed for small-scale production workloads  
+
+👉 [GitHub Repository](https://github.com/joreichhardt/production-ready-k3s-cluster-with-ci-cd)
+
+---
+
+### 🔐 WireGuard VPN on GCP
+Production-ready VPN setup for secure remote access while traveling.
+
+- Fully automated with Terraform  
+- Dockerized (wg-easy)  
+- Reverse proxy via Traefik + Let's Encrypt  
+- One-command deployment  
+
+👉 [GitHub Repository](https://github.com/joreichhardt/wgeasy-terra)
+
+---
+
+### ☁️ GKE Cluster with Terraform
+Automated Kubernetes cluster provisioning on GCP.
+
+- Infrastructure as Code (Terraform)  
+- GKE cluster setup  
+- Ready for workload deployments  
+- Clean and reproducible environment  
+
+👉 [GitHub Repository](https://github.com/joreichhardt/gke-cluster-terraform)
+
+---
+
+### ⚙️ Homelab / Infrastructure Experiments
+Hands-on environment for testing real-world setups.
+
+- Kubernetes (k3s)  
+- Ceph storage experiments  
+- Networking & automation  
+- CI/CD and self-hosted tooling  
+
+👉 [View all repositories](https://github.com/joreichhardt)
+
+---
+
+## 🎯 What I’m Looking For
+
+- DevOps Engineer  
+- Platform Engineer  
+- Infrastructure Engineer  
+
+✔ Remote-first roles preferred  
+✔ Open to hybrid setups  
+
+---
+
+
 ---
 
 ### ☁️ GKE Cluster with Terraform
