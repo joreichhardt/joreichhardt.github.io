@@ -11,7 +11,7 @@ DevOps Engineer | Linux | Cloud | Automation
 - 25+ years Linux experience (private & professional)  
 - 15+ years IT / infrastructure experience  
 - Strong focus on automation, scalability, and reliability  
-- Background in Linux systems, networking, and cloud infrastructure  
+- Background in Linux systems, networking and cloud infrastructure  
 - Bridging classic infrastructure with modern DevOps practices  
 
 ---
