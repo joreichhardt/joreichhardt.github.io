@@ -145,5 +145,5 @@ I choose the right level of complexity:
 - Docker for simple, reliable setups
 - k3s for lightweight orchestration
 - GKE when scalability and managed infrastructure matter
-- Kubernetes on Bare Metal :) 
+- Kubernetes on Bare Metal 😎 
 - ... or just a simple vm ... maybe insight Kubernetes with KubeVirt
