@@ -41,6 +41,8 @@ I prefer **pragmatic solutions over over-engineering**.
 - Terraform
 - Cloud DNS / IAM
 - Ceph
+- Packer
+- Vault
 
 **Containers & Orchestration**
 - Docker / Docker Compose
