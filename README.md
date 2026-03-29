@@ -65,9 +65,14 @@ I prefer **pragmatic solutions over over-engineering**.
 ### ⚙️ Production-ready k3s Cluster with CI/CD
 Lightweight Kubernetes cluster with modern, secure deployment pipeline.
 
+- In Progress
+- one click deployment on GCP
+- Bootstrap GCP
 - k3s-based Kubernetes cluster  
 - GitHub Actions CI/CD pipeline  
-- Keyless authentication via OIDC (no static secrets)  
+- Keyless authentication via OIDC (no static secrets) 
+- Packer to build Golden Debian Image
+- OS-Login 
 - Automated deployments from Git  
 - Designed for small-scale production workloads  
 
