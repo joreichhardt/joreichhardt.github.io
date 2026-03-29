@@ -7,8 +7,6 @@
 **Senior Linux / DevOps Engineer**  
 15+ years experience in Infrastructure, Automation & Cloud
 
-API First Mindset
-
 ---
 
 ## 🚀 About Me
@@ -26,7 +24,7 @@ I prefer **pragmatic solutions over over-engineering**.
 
 ## 🧠 Why Me
 
-- 25+ years hands-on Linux experience  
+- 15+ years hands-on Linux experience  
 - Strong automation mindset (everything reproducible)  
 - Real-world infrastructure, not just demos  
 - Fast learner with deep troubleshooting skills  
@@ -40,13 +38,15 @@ I prefer **pragmatic solutions over over-engineering**.
 - GCP (Compute, GKE, Networking)
 - Terraform
 - Cloud DNS / IAM
-- Ceph
-- Packer
-- Vault
 
 **Containers & Orchestration**
 - Docker / Docker Compose
-- Kubernetes (k3s / k8s / GKE)
+- Kubernetes (k3s / GKE)
+
+**CI/CD & Automation**
+- GitHub Actions
+- Keyless deployments (OIDC)
+- Infrastructure automation pipelines
 
 **Networking & Security**
 - WireGuard
@@ -56,21 +56,11 @@ I prefer **pragmatic solutions over over-engineering**.
 **System & Automation**
 - Linux (Ubuntu / Debian)
 - Bash / Shell
-- Ansible
+- Ansible (basic usage)
 
 ---
 
 ## 📂 Projects
-
-### 🔐 WireGuard VPN on GCP
-Production-ready VPN setup for secure remote access while traveling.
-
-- Fully automated with Terraform  
-- Dockerized (wg-easy)  
-- Reverse proxy via Traefik + Let's Encrypt  
-- One-command deployment  
-
-👉 [GitHub Repository](https://github.com/joreichhardt/wgeasy-terra)
 
 ### ⚙️ Production-ready k3s Cluster with CI/CD
 Lightweight Kubernetes cluster with modern, secure deployment pipeline.
@@ -116,48 +106,6 @@ Hands-on environment for testing real-world setups.
 - Ceph storage experiments  
 - Networking & automation  
 - CI/CD and self-hosted tooling  
-
-👉 [View all repositories](https://github.com/joreichhardt)
-
----
-
-## 🎯 What I’m Looking For
-
-- DevOps Engineer  
-- Platform Engineer  
-- Infrastructure Engineer  
-
-✔ Remote-first roles preferred  
-✔ Open to hybrid setups  
-
----
-
-
----
-
-### ☁️ GKE Cluster with Terraform
-Automated Kubernetes cluster provisioning on GCP.
-
-- Infrastructure as Code (Terraform)  
-- GKE cluster setup  
-- Ready for workload deployments  
-- Clean and reproducible environment  
-- One-command deployment
-
-👉 [GitHub Repository](https://github.com/joreichhardt/gke-cluster-terraform)
-
----
-
-### ⚙️ Homelab / Infrastructure Experiments
-Hands-on environment for testing real-world setups.
-
-- Kubernetes (k3s)  
-- Ceph storage experiments  
-- Networking & automation  
-- CI/CD and self-hosted tooling  
-- One-command deployments
-- Strong interest in Platform Engineering
-  - Backstage
 
 👉 [View all repositories](https://github.com/joreichhardt)
 
