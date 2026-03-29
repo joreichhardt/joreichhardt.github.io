@@ -5,8 +5,10 @@
 # Johannes Reichhardt
 
 **Senior Linux / DevOps Engineer**  
-15+ years experience in Infrastructure, Automation & Cloud
+Infrastructure, Automation & Cloud
 
+Creative by training (Fine Arts, Academy of Fine Arts Munich), engineer by practice  
+15+ years of real-world experience in Linux, infrastructure, and automation.
 25+ years Linux User
 
 ---
