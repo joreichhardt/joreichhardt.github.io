@@ -55,6 +55,21 @@ I’m currently open to DevOps / Cloud roles.
 
 ---
 
+## ☁️ Why I Prefer GCP
+
+I enjoy working with GCP because it feels engineered for clarity and automation.
+
+Compared to other platforms, GCP offers:
+- A more intuitive and consistent API design  
+- Strong IAM and project-based isolation  
+- Excellent Kubernetes ecosystem (GKE)  
+- Clean networking concepts  
+- Seamless integration with Infrastructure as Code (Terraform)  
+
+This allows me to focus on building systems instead of fighting the platform.
+
+---
+
 ## 🌍 Currently
 
 - Building production-ready infrastructure  
