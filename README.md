@@ -89,12 +89,16 @@ Lightweight Kubernetes cluster with modern, secure deployment pipeline.
 ### 🔐 WireGuard VPN on GCP
 Production-ready VPN setup for secure remote access while traveling.
 
+**v0.1 released**
+
 - Fully automated with Terraform  
 - Dockerized (wg-easy)  
 - Reverse proxy via Traefik + Let's Encrypt  
 - One-command deployment  
 
 👉 [GitHub Repository](https://github.com/joreichhardt/wgeasy-terra)
+
+It is planned to integrate this task into Backstage to go from **one command** to **one click**
 
 ---
 
