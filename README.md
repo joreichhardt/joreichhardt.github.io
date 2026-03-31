@@ -1,10 +1,11 @@
 ![Linux](https://img.shields.io/badge/Linux-Expert-blue)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
+![GCP](https://img.shields.io/badge/Google%20Cloud-Platform-yellow)
 
 # Johannes Reichhardt
 
-**Senior Linux / DevOps Engineer**  
+**Senior Linux / DevOps / Platform Engineer**  
 Infrastructure, Automation & Cloud
 
 * Creative by training (Master of Fine Arts(Diplom Freie Kunst), Academy of Fine Arts Munich) 
@@ -19,121 +20,76 @@ Infrastructure, Automation & Cloud
 
 I design and operate **production-ready infrastructure** with a strong focus on:
 
-- Infrastructure as Code (Terraform-first mindset)
-- Cloud platforms (especially GCP)
-- Containerized workloads (Docker / Kubernetes)
-- Simple, maintainable and reliable systems
+- **Infrastructure as Code:** (Terraform-first mindset)
+- **Cloud Platforms:** Deep expertise in Google Cloud (GCP)
+- **GitOps & Platform Engineering:** Automated toolsets with Argo CD
+- **Containerization:** Modern Kubernetes standards (GKE / Gateway API)
+- **AI Integration:** Deploying and scaling LLM-powered applications
 
 I prefer **pragmatic solutions over over-engineering**.
 
 ---
 
-## 🧠 Why Me
+## 📂 Featured Projects
 
-- 15+ years hands-on Linux experience  
-- Strong automation mindset (everything reproducible)  
-- Real-world infrastructure, not just demos  
-- Fast learner with deep troubleshooting skills  
-- Focus on simplicity, performance and cost-efficiency  
+### 🛠️ Cloud-Native GKE Platform Toolset
+A fully automated, production-ready GKE infrastructure featuring a complete DevOps stack.
+
+- **IaC:** Fully provisioned via Terraform with GCS state backend.
+- **GitOps:** Argo CD for automated application lifecycle management.
+- **Traffic:** Modern GKE Gateway API for global traffic routing.
+- **Auto-DNS & SSL:** Integrated ExternalDNS and Cert-Manager (Let's Encrypt) via DNS-01 challenge.
+- **Observability:** Complete Prometheus and Grafana stack.
+- **Security:** GKE Workload Identity for keyless GCP service access.
+
+👉 [GitHub Repository](https://github.com/joreichhardt/gke-with-toolset)
+
+---
+
+### 📝 txt2md - AI-Powered Text Processing
+A modern full-stack application showcasing the integration of Generative AI into cloud-native environments.
+
+- **Stack:** Python Flask, Markdown rendering, Google Gemini API.
+- **Cloud-Native:** Containerized with Docker, deployed via Argo CD on GKE.
+- **Architecture:** Leverages modern LLM models (Gemini 2.5 Flash) for high-quality text structuring.
+- **Automation:** Versioned deployments with automated rollouts.
+
+👉 [GitHub Repository](https://github.com/joreichhardt/txt2md)
+
+---
+
+### ⚙️ Production-ready k3s Cluster with CI/CD
+Lightweight Kubernetes cluster with modern, secure deployment pipeline.
+
+- One-command deployment on GCP with Terraform.
+- GitHub Actions CI/CD pipeline with keyless OIDC authentication.
+- Packer for building custom golden Debian images.
+- Designed for small-scale production workloads.
+
+👉 [GitHub Repository](https://github.com/joreichhardt/production-ready-k3s-cluster-automation)
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Cloud & Infrastructure**
-- GCP 
-- Terraform
-- Cloud DNS / IAM
+- **GCP:** GKE, Artifact Registry, Cloud DNS, IAM, GCS
+- **IaC:** Terraform (Expert)
+- **OS:** Linux (Ubuntu / Debian - 25+ years experience)
 
 **Containers & Orchestration**
-- Docker / Docker Compose
-- Kubernetes (k3s / k8s / GKE)
+- **Kubernetes:** GKE, k3s, Bare Metal
+- **Networking:** Gateway API, Ingress, WireGuard
+- **GitOps:** Argo CD
 
-**CI/CD & Automation**
-- GitHub Actions
-- Keyless deployments (OIDC)
-- Infrastructure automation pipelines
+**Observability & Security**
+- **Monitoring:** Prometheus, Grafana
+- **Certificates:** Cert-Manager, Let's Encrypt
+- **Auth:** Workload Identity, OIDC
 
-**Networking & Security**
-- WireGuard
-- Reverse Proxy (Traefik, Nginx)
-- TLS / Let's Encrypt
-
-**System & Automation**
-- Linux (Ubuntu / Debian)
-- Bash / Shell / Python
-- Ansible (basic usage)
-
----
-
-## 📂 Projects
-
-### ⚙️ Production-ready k3s Cluster with CI/CD
-Lightweight Kubernetes cluster with modern, secure deployment pipeline.
-
-- In Progress
-- One-command deployment on GCP
-- Bootstrap GCP
-- k3s-based Kubernetes cluster  
-- GitHub Actions CI/CD pipeline  
-- Keyless authentication via OIDC (no static secrets) 
-- Packer to build Golden Debian Image
-- OS-Login 
-- Automated deployments from Git  
-- Designed for small-scale production workloads  
-
-👉 [GitHub Repository](https://github.com/joreichhardt/production-ready-k3s-cluster-automation)
-
----
-
-### 🔐 WireGuard VPN on GCP
-Production-ready VPN setup for secure remote access while traveling.
-
-**v0.1 released**
-
-- Fully automated with Terraform  
-- Dockerized (wg-easy)  
-- Reverse proxy via Traefik + Let's Encrypt  
-- One-command deployment  
-
-👉 [GitHub Repository](https://github.com/joreichhardt/wgeasy-terra)
-
-It is planned to integrate this task into Backstage to go from **one command** to **one click**
-
----
-
-### ☁️ GKE Cluster with Terraform
-Automated Kubernetes cluster provisioning on GCP.
-
-- Infrastructure as Code (Terraform)  
-- GKE cluster setup  
-- Ready for workload deployments  
-- Clean and reproducible environment  
-
-👉 [GitHub Repository](https://github.com/joreichhardt/gke-cluster-terraform)
-
----
-
-### ⚙️ Homelab / Infrastructure Experiments
-Hands-on environment for testing real-world setups.
-
-- Kubernetes (k3s)  
-- Ceph storage experiments  
-- Networking & automation  
-- CI/CD and self-hosted tooling  
-
-👉 [View all repositories](https://github.com/joreichhardt)
-
----
-
-## 🎯 What I’m Looking For
-
-- DevOps Engineer  
-- Platform Engineer  
-- Infrastructure Engineer  
-
-✔ Remote-first roles preferred  
-✔ Open to hybrid setups  
+**Development & AI**
+- **Languages:** Python, Bash/Shell
+- **AI:** Google Gemini API Integration
 
 ---
 
@@ -148,11 +104,8 @@ Hands-on environment for testing real-world setups.
 
 > "Build systems that are simple, reproducible and actually work in production."
 
-I don't default to Kubernetes.
-
-I choose the right level of complexity:
-- Docker for simple, reliable setups
-- k3s for lightweight orchestration
-- GKE when scalability and managed infrastructure matter
-- Kubernetes on Bare Metal 😎 
-- ... or just a simple vm ... maybe insight Kubernetes with KubeVirt
+I choose the right tool for the job:
+- **Docker** for simple, reliable setups.
+- **k3s** for lightweight orchestration.
+- **GKE** for enterprise scalability and managed services.
+- **Generative AI** to enhance application capabilities.
