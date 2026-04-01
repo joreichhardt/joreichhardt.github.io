@@ -43,7 +43,7 @@ A fully automated, production-ready GKE infrastructure featuring a complete DevO
 - **Security:** GKE Workload Identity for keyless GCP service access.
 
 ### ☕ Hannes Albeiro the Paisa
-
+---
 👉 [GitHub Repository](https://github.com/joreichhardt/gke-with-toolset)  
 👉 [txt2md](https://txt2md.hannesalbeiro.com)  
 👉 [Argo CD](https://argocd.hannesalbeiro.com)  
