@@ -50,6 +50,7 @@ A fully automated, production-ready GKE infrastructure featuring a complete DevO
 - 🤖 Demo App: [txt2md](https://txt2md.hannesalbeiro.com)
 - ⚙️ GitOps UI: [Argo CD](https://argocd.hannesalbeiro.com)
 - 📊 Observability: [Grafana](https://grafana.hannesalbeiro.com)
+
 ---
 
 ### 📝 txt2md - AI-Powered Text Processing
