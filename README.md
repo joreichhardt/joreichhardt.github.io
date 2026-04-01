@@ -44,10 +44,12 @@ A fully automated, production-ready GKE infrastructure featuring a complete DevO
 
 ### ☕ Hannes Albeiro the Paisa  
 
-👉 [GitHub Repository](https://github.com/joreichhardt/gke-with-toolset)  
-👉 [txt2md](https://txt2md.hannesalbeiro.com)  
-👉 [Argo CD](https://argocd.hannesalbeiro.com)  
-👉 [Grafana](https://grafana.hannesalbeiro.com)  
+**Live Platform Links**
+
+- 🚀 Platform Repo: [gke-with-toolset](https://github.com/joreichhardt/gke-with-toolset)
+- 🤖 Demo App: [txt2md](https://txt2md.hannesalbeiro.com)
+- ⚙️ GitOps UI: [Argo CD](https://argocd.hannesalbeiro.com)
+- 📊 Observability: [Grafana](https://grafana.hannesalbeiro.com)
 ---
 
 ### 📝 txt2md - AI-Powered Text Processing
