@@ -8,7 +8,7 @@
 **Senior Linux / DevOps / Platform Engineer**  
 Infrastructure, Automation & Cloud
 
-* Creative by training (Master of Fine Arts(Diplom Freie Kunst), Academy of Fine Arts Munich) 
+* Creative by training (Master of Fine Arts (Diplom Freie Kunst), Academy of Fine Arts Munich) 
 * Engineer by practice 
 
 * 15+ years of real-world experience in Linux, infrastructure, and automation
@@ -23,6 +23,7 @@ I design and operate **production-ready infrastructure** with a strong focus on:
 - **Infrastructure as Code:** (Terraform-first mindset)
 - **Cloud Platforms:** Deep expertise in Google Cloud (GCP)
 - **GitOps & Platform Engineering:** Automated toolsets with Argo CD
+- **CI/CD Architecture:** Self-hosted Gitea & Gitea Actions on Kubernetes
 - **Containerization:** Modern Kubernetes standards (GKE / Gateway API)
 - **AI Integration:** Deploying and scaling LLM-powered applications
 
@@ -37,7 +38,8 @@ A fully automated, production-ready GKE infrastructure featuring a complete DevO
 
 - **IaC:** Fully provisioned via Terraform with GCS state backend.
 - **GitOps:** Argo CD for automated application lifecycle management.
-- **Traffic:** Modern GKE Gateway API for global traffic routing.
+- **CI/CD:** Self-hosted **Gitea** with **Gitea Actions** for internal Docker builds.
+- **Traffic:** Modern GKE Gateway API for global traffic routing with automatic HTTP-to-HTTPS redirect.
 - **Auto-DNS & SSL:** Integrated ExternalDNS and Cert-Manager (Let's Encrypt) via DNS-01 challenge.
 - **Observability:** Complete Prometheus and Grafana stack.
 - **Security:** GKE Workload Identity for keyless GCP service access.
@@ -49,8 +51,9 @@ A fully automated, production-ready GKE infrastructure featuring a complete DevO
 - 🚀 Platform Repo: [gke-with-toolset](https://github.com/joreichhardt/gke-with-toolset)  
 
 - 🤖 Demo App: [txt2md](https://txt2md.hannesalbeiro.com)
-- ⚙️ GitOps UI: [Argo CD](https://argocd.hannesalbeiro.com)
+- ⚙️ Git Ops UI: [Argo CD](https://argocd.hannesalbeiro.com)
 - 📊 Observability: [Grafana](https://grafana.hannesalbeiro.com)
+- 🍵 Git & CI: [Gitea](https://gitea.hannesalbeiro.com)
 
 ---
 
@@ -59,8 +62,9 @@ A modern full-stack application showcasing the integration of Generative AI into
 
 - **Stack:** Python Flask, Markdown rendering, Google Gemini API.
 - **Cloud-Native:** Containerized with Docker, deployed via Argo CD on GKE.
+- **CI/CD:** Automatic builds via Gitea Actions and Artifact Registry.
 - **Architecture:** Leverages modern LLM models (Gemini 2.5 Flash) for high-quality text structuring.
-- **Automation:** Versioned deployments with automated rollouts.
+- **Automation:** Versioned deployments with automated rollouts via Argo CD Image Updater.
 
 👉 [GitHub Repository](https://github.com/joreichhardt/txt2md)
 
@@ -76,8 +80,6 @@ Lightweight Kubernetes cluster with modern, secure deployment pipeline.
 
 👉 [GitHub Repository](https://github.com/joreichhardt/production-ready-k3s-cluster-automation)
 
----
-
 ## 🛠️ Tech Stack
 
 **Cloud & Infrastructure**
@@ -90,23 +92,22 @@ Lightweight Kubernetes cluster with modern, secure deployment pipeline.
 - **Networking:** Gateway API, Ingress, WireGuard
 - **GitOps:** Argo CD
 
-**Observability & Security**
+**CI/CD & Developer Tools**
+- **Git:** Gitea (Self-hosted), GitHub
+- **Automation:** Gitea Actions, GitHub Actions
+- **Security:** Cert-Manager, Workload Identity, OIDC
+
+**Observability**
 - **Monitoring:** Prometheus, Grafana
-- **Certificates:** Cert-Manager, Let's Encrypt
-- **Auth:** Workload Identity, OIDC
 
 **Development & AI**
 - **Languages:** Python, Bash/Shell
 - **AI:** Google Gemini API Integration
 
----
-
 ## 📫 Contact
 
 - 📧 Email: [johannes.reichhardt@gmail.com](mailto:johannes.reichhardt@gmail.com)
 - 💻 GitHub: [github.com/joreichhardt](https://github.com/joreichhardt)
-
----
 
 ## ⚡ Philosophy
 
