@@ -22,7 +22,7 @@ I design and operate **production-ready infrastructure** with a strong focus on:
 
 - **Infrastructure as Code:** (Terraform-first mindset)
 - **Cloud Platforms:** Deep expertise in Google Cloud (GCP)
-- **GitOps & Platform Engineering:** Automated toolsets with Argo CD
+- **GitOps & Platform Engineering:** Automated toolsets with **Backstage (IDP)** and **Argo CD**
 - **CI/CD Architecture:** Self-hosted Gitea & Gitea Actions on Kubernetes
 - **Containerization:** Modern Kubernetes standards (GKE / Gateway API)
 - **AI Integration:** Deploying and scaling LLM-powered applications
@@ -32,6 +32,19 @@ I prefer **pragmatic solutions over over-engineering**.
 ---
 
 ## 📂 Featured Projects
+
+### 🏗️ GCP Platform Engineering Portal (Backstage)
+A modern Internal Developer Portal (IDP) designed to automate infrastructure provisioning on Google Cloud Platform.
+
+- **Self-Service:** 10+ ready-to-use Scaffolder templates for GKE, Cloud SQL, GCS, and more.
+- **Security:** Keyless authentication via GCP Workload Identity Federation (OIDC) for GitHub Actions.
+- **Automation:** Generates Terraform code and CI/CD workflows automatically.
+- **Architecture:** Built on the latest Backstage backend system for modularity and performance.
+- **Deployment:** Fully containerized and ready for production-scale orchestration.
+
+👉 [GitHub Repository](https://github.com/joreichhardt/backstage-portal)
+
+---
 
 ### 🛠️ Cloud-Native GKE Platform Toolset
 A fully automated, production-ready GKE infrastructure featuring a complete DevOps stack.
@@ -90,7 +103,7 @@ Lightweight Kubernetes cluster with modern, secure deployment pipeline.
 **Containers & Orchestration**
 - **Kubernetes:** GKE, k3s, Bare Metal
 - **Networking:** Gateway API, Ingress, WireGuard
-- **GitOps:** Argo CD
+- **GitOps & IDP:** Backstage (Internal Developer Portal), Argo CD
 
 **CI/CD & Developer Tools**
 - **Git:** Gitea (Self-hosted), GitHub
