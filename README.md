@@ -44,6 +44,8 @@ A modern Internal Developer Portal (IDP) designed to automate infrastructure pro
 
 👉 [GitHub Repository](https://github.com/joreichhardt/backstage-portal)
 
+Backstage ist for lovers and haters equaly - genius. 
+
 ---
 
 ### 🛠️ Cloud-Native GKE Platform Toolset
