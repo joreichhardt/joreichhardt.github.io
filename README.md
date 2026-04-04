@@ -59,6 +59,7 @@ A fully automated, production-ready GKE infrastructure featuring a complete DevO
 - **Auto-DNS & SSL:** Integrated ExternalDNS and Cert-Manager (Let's Encrypt) via DNS-01 challenge.
 - **Observability:** Complete Prometheus and Grafana stack.
 - **Security:** GKE Workload Identity for keyless GCP service access.
+- **Auto Scaling:** Configureable Min/Max Nodes
 
 ### ☕ Hannes Albeiro the Paisa  
 
