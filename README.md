@@ -26,7 +26,7 @@ I design and operate **production-ready infrastructure** with a strong focus on:
 - **CI/CD Architecture:** Self-hosted Gitea & Gitea Actions on Kubernetes
 - **Containerization:** Modern Kubernetes standards (GKE / Gateway API)
 - **AI Integration:** Deploying and scaling LLM-powered applications
-- **AI-Augmented Engineering
+- **AI-Augmented Engineering** 
 
 I prefer **pragmatic solutions over over-engineering**.
 
