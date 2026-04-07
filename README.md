@@ -57,7 +57,7 @@ A fully automated, production-ready GKE infrastructure featuring a complete DevO
 - **CI/CD:** Self-hosted **Gitea** with **Gitea Actions** for internal Docker builds.
 - **Traffic:** Modern GKE Gateway API for global traffic routing with automatic HTTP-to-HTTPS redirect.
 - **Auto-DNS & SSL:** Integrated ExternalDNS and Cert-Manager (Let's Encrypt) via DNS-01 challenge.
-- **Observability:** Complete Prometheus and Grafana stack.
+- **Observability:** Complete Prometheus & Grafana stack plus ELK Stack (Elasticsearch, Kibana, Fluent Bit) for cluster-wide log aggregation via ECK.
 - **Security:** GKE Workload Identity for keyless GCP service access.
 - **Auto Scaling:** Configureable Min/Max Nodes
 
@@ -71,6 +71,7 @@ A fully automated, production-ready GKE infrastructure featuring a complete DevO
 - ⚙️ Git Ops UI: [Argo CD](https://argocd.hannesalbeiro.com)
 - 📊 Observability: [Grafana](https://grafana.hannesalbeiro.com)
 - 🍵 Git & CI: [Gitea](https://gitea.hannesalbeiro.com)
+- 📋 Logs: [Kibana](https://kibana.hannesalbeiro.com)
 
 ---
 
@@ -116,6 +117,7 @@ Lightweight Kubernetes cluster with modern, secure deployment pipeline.
 
 **Observability**
 - **Monitoring:** Prometheus, Grafana
+- **Log Aggregation:** Elasticsearch, Kibana, Fluent Bit (ECK-managed)
 
 **Development & AI**
 - **Languages:** Python, Bash/Shell
