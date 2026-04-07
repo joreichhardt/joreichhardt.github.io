@@ -88,6 +88,19 @@ A modern full-stack application showcasing the integration of Generative AI into
 
 ---
 
+### 🦊 Self-Hosted GitLab on GCP
+A fully automated setup for running a self-hosted GitLab instance on Google Cloud Platform.
+
+- **Golden Image:** Packer builds a custom Debian image with GitLab (Docker) pre-installed.
+- **IaC:** Terraform provisions compute instance, static IP, 50GB persistent data disk, and DNS record.
+- **SSL:** Automatic Let's Encrypt certificate via ACME on startup.
+- **Reliability:** Optional daily snapshot policy for automated data disk backups (7-day retention).
+- **SSH:** GitLab SSH mapped to port 2222 to coexist with OS Login on port 22.
+
+👉 [GitHub Repository](https://github.com/joreichhardt/gitlab-gcp)
+
+---
+
 ### ⚙️ Production-ready k3s Cluster with CI/CD
 Lightweight Kubernetes cluster with modern, secure deployment pipeline.
 
