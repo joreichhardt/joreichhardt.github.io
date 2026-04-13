@@ -101,6 +101,20 @@ A fully automated setup for running a self-hosted GitLab instance on Google Clou
 
 ---
 
+### ☕ WebLogic on Kubernetes (Minikube)
+Enterprise Java middleware running cloud-native — WebLogic Server 15.1.1 operated by the WebLogic Kubernetes Operator on Minikube, deployable to any Kubernetes cluster including Bare Metal.
+
+- **Model-in-Image:** Full domain configuration via WDT (WebLogic Deploy Tooling) — no manual admin console clicks, no config drift.
+- **Bare Metal optimized:** Eliminates hypervisor and VM abstraction layers — direct hardware access, lower latency, better resource utilization.
+- **Ingress:** Traefik v3 IngressRoutes for `/console`, `/rconsole` (WebLogic Remote Console) and application endpoints.
+- **Security:** Sealed Secrets for GitOps-safe secret management — credentials encrypted and version-controlled.
+- **Jakarta EE 9.1:** WebLogic 15.1.1 with Servlet 5.0 and `jakarta.*` namespace.
+- **Multi-Domain:** Namespace-isolated domains — each app runs with its own Admin Server, Managed Servers and credentials.
+
+👉 [GitHub Repository](https://github.com/joreichhardt/weblogic-k8s-operator)
+
+---
+
 ### ⚙️ Production-ready k3s Cluster with CI/CD
 Lightweight Kubernetes cluster with modern, secure deployment pipeline.
 
