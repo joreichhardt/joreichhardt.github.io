@@ -48,8 +48,11 @@ Linux-based disk diagnostics and resale testing tool with a NixOS live boot imag
 - **Resale-oriented reporting:** SMART checks, human-readable attribute tables, and printable reports for used-drive sales.
 - **Batch-friendly:** Designed for multi-drive testing in workstation and server scenarios.
 - **Commercial-ready base:** Suitable foundation for custom branding, build service, and white-label live images.
+- **Latest public build:** `0.0.1b` live image available via OneDrive.
 
 👉 [GitHub Repository](https://github.com/joreichhardt/driveproof)
+  
+👉 [Download Live Image 0.0.1b](https://1drv.ms/f/c/8aa757f365d1fa83/IgAhoc92SZjpQqaPkGKHmod_AWk7fpZ1zPRKHlDMnKImvPM)
 
 ---
 
