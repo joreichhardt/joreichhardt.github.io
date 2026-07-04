@@ -1,3 +1,9 @@
+<p>
+  <a href="https://buymeacoffee.com/joreichhardt">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-ffdd00?logo=buymeacoffee&logoColor=000000" alt="Buy Me a Coffee">
+  </a>
+</p>
+
 ![Linux](https://img.shields.io/badge/Linux-Expert-blue)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
@@ -33,6 +39,19 @@ I prefer **pragmatic solutions over over-engineering**.
 ---
 
 ## 📂 Featured Projects
+
+### 💽 DriveProof
+Linux-based disk diagnostics and resale testing tool with a NixOS live boot image for HDD, SSD, and NVMe.
+
+- **Live USB workflow:** Boot directly into a kiosk-style diagnostics environment based on NixOS.
+- **Hardware-aware testing:** Automatic detection for HDD, SSD, and NVMe with matching test modes.
+- **Resale-oriented reporting:** SMART checks, human-readable attribute tables, and printable reports for used-drive sales.
+- **Batch-friendly:** Designed for multi-drive testing in workstation and server scenarios.
+- **Commercial-ready base:** Suitable foundation for custom branding, build service, and white-label live images.
+
+👉 [GitHub Repository](https://github.com/joreichhardt/driveproof)
+
+---
 
 ### 🏗️ GCP Platform Engineering Portal (Backstage)
 A modern Internal Developer Portal (IDP) designed to automate infrastructure provisioning on Google Cloud Platform.
